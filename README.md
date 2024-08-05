@@ -3,7 +3,7 @@ A python cli tool for gathering binaries and popular apps your using and creatin
 
 ## TODO
 
-Set up
+### Set up
 
 - [ ] editor
 - [ ] linting
@@ -35,5 +35,6 @@ Set up
 ## Package Management
 
 - I have been reading about [RYE](https://github.com/astral-sh/rye) and would like to use it, otherwise second choice will be Poetry
+- [Rye Documentation](https://rye.astral.sh/guide/)
 
 
